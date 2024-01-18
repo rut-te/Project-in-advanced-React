@@ -1,0 +1,42 @@
+.album{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    background-color: rgba(240, 248, 255, 0.298) ;
+    width: 80vw;
+    height: 8vh;
+    margin-left: 10vw;
+    margin-top: 4vh;
+    border-radius: 2%;
+    padding: 1vh;
+}
+
+.albumTitle{
+    /* margin-left: 15vw; */
+    padding: 2vh;
+    margin-top: 0;
+    width: 80vw;
+}
+
+.photoTitle{
+    margin-top: 7vh;
+    color:#524150;
+}
+
+img,a{
+    cursor: pointer;
+}
+
+.albumId{
+    color:#524150;
+    font-size: 2em;
+}
+
+.showMore{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    margin-left: 5vw;
+    background-color: #6d5b6b7e ;
+    cursor: pointer;
+    border-radius: 5%;
+}

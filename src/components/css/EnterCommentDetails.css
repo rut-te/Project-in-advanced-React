@@ -1,0 +1,45 @@
+.detailsPostWindow {
+    /* background-color: rgba(225, 243, 246, 0.972); */
+    background-color: #837081ed;
+    margin-top: 0;
+    
+}
+
+.backgroundPostDetailsWindow {
+    width: 100vw;
+    height: 100%;
+    /* position: absolute; */
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.inputFormElement{
+    min-height: 7vh;
+    min-width: 25vw;
+    border-radius: 5%;
+    font-size: 1.1em;
+    background-color: #322530ed;
+    color: azure;
+}
+
+.textareaFormElement{
+    min-height: 20vh;
+    min-width: 25vw;
+    border-radius: 5%;
+    font-size: 1.2em;
+    background-color: #322530ed;
+    color: azure;
+}
+
+.detailsCommentWindow{
+    background-color: #837081ed;
+    margin-top: 0;
+}
+
+.backgroundCommentDetailsWindow{
+    width: 100vw;
+    height: 100%;
+    position: fixed;
+    top: 12vh;
+    right: 3vw;
+    background-color: rgba(240, 248, 255, 0);
+}

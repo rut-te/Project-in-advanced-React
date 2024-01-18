@@ -1,0 +1,26 @@
+.info{
+    /* background-color: rgba(225, 243, 246, 0.972); */
+    background-color: #837081ed;
+    position: absolute;
+    top:17%;
+    left:66%;
+    max-width: 30vw;
+    max-height: 70vh;
+    overflow-y:scroll;
+    z-index: 100;
+    box-sizing: border-box;
+    padding: 3%;
+    border-radius: 10px;
+}
+h3{
+    font-size: 2vw;
+    color: #311e2e;
+}
+h4{
+    font-size:1.5vw;
+    color: #402a3c;
+}
+h5{
+    font-size: 1.2vw;
+    color: #5d4559;
+}

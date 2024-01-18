@@ -1,0 +1,102 @@
+.minNav{
+    width: 20vw;
+    margin-left: 70vw;
+    background-color: rgba(240, 248, 255, 0.298) ;
+    padding: 0;
+    margin-bottom: 1vh;
+    border-color: #311e2e;
+    border-radius: 5%;
+    margin-bottom: 5vh;
+}
+
+.isActiveNow{
+    font-size: 2vw;
+    font-weight: 500;
+    margin: 0;
+    color:#181118;
+}
+
+.post{
+    display: flex;
+    align-self: center;
+    margin-left: 10vw;   
+}
+
+.idOfPost{
+    background-color: rgba(240, 248, 255, 0.298) ;
+    margin-top: 0;
+    padding: 1vh;
+    border-radius: 3%;
+    height: 7vh;
+    margin-top: 2vh;
+    margin-bottom: 0;
+}
+
+.titleOfPost{
+    margin: 2vh;
+    font-size: 2vw;
+    width:70vw;
+    background-color: rgba(240, 248, 255, 0.298) ;
+    border-radius: 2%;
+    min-height: 9vh;
+}
+
+.postsOperations{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+    margin-left: 22vw;
+    margin-bottom: 7vh;
+}
+
+.toComments{
+    display: block;
+    margin-left: 35vw;
+}
+
+.commentBody{
+    padding-left: 2vh;
+    padding-right: 2vh;
+    margin-top: 0;
+    font-size: 1.2em;
+}
+
+.userEmail{
+    font-size: 1em;
+    margin: 0;
+    margin-bottom: 1.7vh;
+    color:#524150;
+}
+
+.userName{
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.bodyOfPost{
+    align-self: center;
+    align-items: center;
+    background-color: rgba(240, 248, 255, 0.298) ;
+    border-radius: 2%;
+    padding: 3vw;
+    margin: 4vw;
+    margin-top: 1vh;
+}
+
+.idOfBodyPost{
+    background-color: none;
+    font-size: 1.2em;
+}
+
+.titleToBodyPost{
+    font-size: 2em;
+}
+
+.bodyPost{
+    font-size: 1.5em;
+}
+
+.closeBodyPost{
+    margin-bottom: 3vh;
+}

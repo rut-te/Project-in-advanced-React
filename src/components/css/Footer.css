@@ -1,0 +1,15 @@
+.footer{
+    
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(156, 152, 156, 0.332);
+    width: 100vw;
+    height: 5vh;
+    /* margin-top: 70vh; */
+    position: sticky;
+}
+h4{
+    margin: 0;
+}
